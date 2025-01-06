@@ -1,4 +1,3 @@
-Here’s a GitHub repository description for your project:
 
 ---
 
